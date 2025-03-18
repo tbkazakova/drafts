@@ -68,8 +68,8 @@ LEXICON NounInfl
 
 |группа||||
 |---|---|---|---|
-|слабые [-VH]|e|i|u|
-|сильные [+VH]|a|e|o|
+|слабые `[-VH]`|e|i|u|
+|сильные `[+VH]`|a|e|o|
 
 На самом деле все морфемы (в том числе те, где вообще нет гласных) делятся на сильные и слабые. Просто по некоторым морфемам мы это понимаем сразу (по гласным i, u, а, о), а где-то надо подставить их в словоформы со слабыми гласными (если гармония изменится, значит, наша морфема сильная, если нет - слабая).
 
@@ -80,12 +80,12 @@ LEXICON NounInfl
 |----------------|-------------------|---------|----------|----------|--------|-----------|----------|
 |                |                   |'иголка' |'спичка'  |'собака'  |'олень' |'кузина'   |'камень'  |
 |                |                   |titi-    |miɬɣ-     |ʔəttʔ-    |qora-   |ŋawjoɬ-    |wəkw-     |
-|\<ins>          |-(t)e [-VH]        |titite   |miɬɣe     |ʔəttʔe    |qorata  |ŋawjoɬa    |wəkwa     |
-|\<dat>          |-ɣtə/-etə [+VH]    |teteɣtə  |meɬɣetə   |ʔəttʔetə  |qoraɣtə |ŋawjoɬetə  |wəkwetə   |
-|\<loc>          |-k [-VH]           |titik    |miɬɣək    |ʔəttʔək   |qorak   |ŋawjoɬək   |wəkwək    |
-|\<com>...\<sim>|ɣа- -ma [+VH]      |ɣаtetemа |ɣаmeɬəmа  |ɣʔəttʔəma |ɣаqoramа|ɣаŋawjoɬma |ɣаwəkwəma |
-|\<dim>          |-qej [-VH]         |titiqej  |miɬɣəqej  |ʔəttʔəqej |qoraqaj |ŋawjoɬqaj  |wəkwəqaj  |
-|\<go.to>\<inf>  |-ɣt [+VH] -k [-VH] |teteɣtək |meɬɣəɣtək |ʔəttʔəɣtək|qoraɣtək|ŋawjoɬəɣtək|wəkwəɣtək |
+|\<ins>          |-(t)e `[-VH]`        |titite   |miɬɣe     |ʔəttʔe    |qorata  |ŋawjoɬa    |wəkwa     |
+|\<dat>          |-ɣtə/-etə `[+VH]`    |teteɣtə  |meɬɣetə   |ʔəttʔetə  |qoraɣtə |ŋawjoɬetə  |wəkwetə   |
+|\<loc>          |-k `[-VH]`           |titik    |miɬɣək    |ʔəttʔək   |qorak   |ŋawjoɬək   |wəkwək    |
+|\<com>...\<sim>|ɣа- -ma `[+VH]`      |ɣаtetemа |ɣаmeɬəmа  |ɣʔəttʔəma |ɣаqoramа|ɣаŋawjoɬma |ɣаwəkwəma |
+|\<dim>          |-qej `[-VH]`         |titiqej  |miɬɣəqej  |ʔəttʔəqej |qoraqaj |ŋawjoɬqaj  |wəkwəqaj  |
+|\<go.to>\<inf>  |-ɣt `[+VH]` -k `[-VH]` |teteɣtək |meɬɣəɣtək |ʔəttʔəɣtək|qoraɣtək|ŋawjoɬəɣtək|wəkwəɣtək |
 
 Внимание! Решение через создание двух вариантов для каждой морфемы со слабой гармонией не подойдёт.
 
