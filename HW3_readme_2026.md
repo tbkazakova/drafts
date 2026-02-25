@@ -52,7 +52,7 @@ kạʒŋǝ̣n
 - Чукотский - `Surname_hw3_01_ckt.twol` (тест: test_hw3_01_ckt)
 - Корякский - `Surname_hw3_01_kpy.twol` (тест: test_hw3_01_kpy)
 - Алюторский - `Surname_hw3_01_alr.twol` (тест: test_hw3_01_alr)
-- Таблица соответствий - `Surname_hw3_01.csv`
+- Таблица соответствий - `Surname_hw3_01.tsv`
 
 Оценивание:
 max 3 балла за twol(ы) и 1 балл за таблицу
