@@ -1,3 +1,9 @@
+# Домашнее задание №4. Командная строка
+
+*Дедлайн: 22 марта 23:59.*
+
+*После дедлайна работы не принимаются.*
+
 # 1. 3 3 3 3 = 8
 
 В файлах `Botlikh.lexd`, `Ghodoberi.lexd`, `Bagvalal.lexd`, `Tindi.lexd` содержатся списки слов, которые отмечены в проекте [Comparative Andic dictionary database](https://github.com/phon-dicts-project/comparative_andic_dictionary_database) как заимствования из русского (названия файлов соответствуют названию языков).
@@ -43,6 +49,6 @@ $ echo "one two three" | awk '{print $2}' # выведет только two
 Напишите `Surname_hw3_03.sh` файл, который создаёт трансдьюсеры `eng_seg.hfst` и `eng_no_seg.hfst`.
 
 - `eng_seg.hfst` должен генерировать сегментированные формы (1 балл)
-Для проверки: test_hw4_03_01
+Для проверки: for_test_hw4_03_01.txt
 - `eng_no_seg.hfst` должен генерировать не сегментированные формы (1 балл)
-Для проверки: test_hw4_03_02
+Для проверки: for_test_hw4_03_02.txt
