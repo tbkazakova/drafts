@@ -38,7 +38,8 @@ $ echo "one two three" | awk '{print $2}' # выведет только two
 
 # 3. miniMakefile
 
-Перед вами lexd и 2 twol файла.
+Перед вами `eng.lexd`, `eng_seg.twol` и `no_seg.twol`.
+
 Напишите `Surname_hw3_03.sh` файл, который создаёт трансдьюсеры `eng_seg.hfst` и `eng_no_seg.hfst`.
 
 - `eng_seg.hfst` должен генерировать сегментированные формы (1 балл)
